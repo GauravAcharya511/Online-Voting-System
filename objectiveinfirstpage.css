@@ -1,0 +1,24 @@
+﻿body {
+}
+.objective{
+
+   float: right;
+  margin: 20px 10px 0 10px;
+  width: 210px;
+  padding:0;
+  height:650px;
+  width:500px;
+  border:groove;
+  border-color:brown;
+  
+  
+}
+
+.slideshow1
+{ width: 540px;
+  height: 300px;
+  float: left;   
+  margin: 20px 0 0 0;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}  
