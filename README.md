@@ -2,7 +2,7 @@ Note: Contact me for database issues.
 
 # Online Voting System - MATDAAN
 
-ASP.NET app for managing and conducting online elections in IIITA. This project was made as a DBMS project in the 2nd Semester.
+ASP.NET app for managing and conducting online elections in University.
 
 ![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture.PNG)
 
@@ -105,13 +105,8 @@ This option is avaliable exclusively for admin to view details of any registered
 ![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture11.PNG)
 
 ## Contributers <a name='contributers'></a>
-* Rajat Saxena
-* Satyam Poddar
-* Pranav Pandey
-* Abhinav Mishra
+* Gaurav Acharya
 
 ## Links <a name='links'></a>
 
-Visit me:     [Rajat Saxena](http://www.rajatsaxena.me/)
-
-Contact me:     <rajat8171@gmail.com>
+Contact me:     <gauravacharya511@gmail.com>
